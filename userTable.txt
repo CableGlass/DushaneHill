@@ -1,0 +1,3 @@
+${firstName}	${surname}	${yearJoined}	${phoneOperatingSystem}	${mobileDeviceModel}
+${firstName}	${surname}	${yearJoined}	${phoneOperatingSystem}	${mobileDeviceModel}
+${firstName}	${surname}	${yearJoined}	${phoneOperatingSystem}	${mobileDeviceModel}
